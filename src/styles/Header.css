@@ -1,0 +1,18 @@
+header {
+  background-color: #1c4a17;
+  position: relative;
+  top: -20px;
+  height: 12vh;
+  width: 100vw;
+  margin-bottom: 2rem;
+}
+
+.title {
+  display: flex;
+  height: 12vh;
+  font-family: 'Indie Flower', cursive;
+  justify-content: center;
+  align-items: center;
+  font-size: 3rem;
+  color: #fff;
+}

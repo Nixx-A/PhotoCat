@@ -1,0 +1,27 @@
+.example-cat {
+  position: relative;
+  height: 200px;
+  width: 200px;
+  top: -100px;
+}
+
+.text {
+  color: rgb(235, 235, 235);
+  text-align: center;
+}
+
+.img-flex {
+  display: flex;
+  width: 100%;
+  justify-content: center;
+}
+
+@media (min-width: 767px) {
+  
+  .example-cat {
+    width: 300px;
+    height: 300px;
+  }
+
+ 
+} 
